@@ -1,5 +1,5 @@
 <?php
 
-$MESS['MYMODULE_MODULE_NAME'] = 'Подсчёт кол-ва элементов инфоблока';
-$MESS['MYMODULE_MODULE_DESCRIPTION'] = 'Данный модуль предназначен для мегасложнейших вычислений в результате которых можно увидеть кол-во элементов в выбранном инфоблоке';
-$MESS['MYMODULE_MODULE_PARTNER_NAME'] = 'GH'; 
+$MESS['MYMODULE_MODULE_NAME'] = 'Валюты';
+$MESS['MYMODULE_MODULE_DESCRIPTION'] = 'Даный модуль позволяет управлять текущим курсом валют, загружать из csv, получать по api';
+$MESS['MYMODULE_MODULE_PARTNER_NAME'] = 'GH';
